@@ -1,0 +1,10 @@
+body{
+    max-width: 1600px;
+ 
+    border: 5px solid red;
+}
+main{
+       margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
